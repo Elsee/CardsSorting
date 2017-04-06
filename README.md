@@ -1,2 +1,2 @@
 # CardsSorting
-# Contest task
+Contest task
